@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "dahua.MBProgressHUD.framework"
-  s.version      = "1.0.3"
+  s.version      = "1.0.5"
   s.summary      = "Dahua MBProgressHUD Framework"
   s.description  = <<-DESC
     Dahua MBProgressHUD Framework Description
