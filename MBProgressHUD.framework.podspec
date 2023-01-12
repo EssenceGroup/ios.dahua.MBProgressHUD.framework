@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     MBProgressHUD Framework Description
                    DESC
   s.homepage     = "https://github.com/"
-  s.source       = { :git => "https://github.com/ionic-team/does-not-exist.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/EssenceGroup/ios.dahua.MBProgressHUD.framework.git", :tag => s.version }
   s.license      = { :type => "MIT" }
   s.author    = "."
   s.platform     = :ios, "13.0"
